@@ -1,10 +1,3 @@
-## Hi there 👋
-
-<!--
-**myaano/myaano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 I'm myaano, a 4th year Student and a Front-End Web Developer specializing in UI/UX design Based on Bicol Region, Philippines
 
 
@@ -33,4 +26,3 @@ My preferred Designing Style is Swiss Style, Clean, Formal, Professional, yet Ch
     Reach me out on Discord, or via Instagram @myaaaaaaaano
 - ⚡ Fun fact: ...
     I love Travelling and spending time alone
--->
