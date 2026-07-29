@@ -8,6 +8,9 @@ Here are some ideas to get you started:
 I'm myaano, a 4th year Student and a Front-End Web Developer specializing in UI/UX design Based on Bicol Region, Philippines
 
 
+
+
+
 I love creating designs that is clean, and stands out to be noticed.
 
 My preferred Designing Style is Swiss Style, Clean, Formal, Professional, yet Chaotic
