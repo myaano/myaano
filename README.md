@@ -15,7 +15,7 @@ My preferred Designing Style is Swiss Style, Clean, Formal, Professional, yet Ch
 - 🌱 I’m currently learning ...
   UI/UX design, Javascript, React, C++, and NextJS
 
-- Tools/Tech Stack
+- Tools/Tech Stack :
   NextJS, Figma, Tailwind, React, C++, 
 
 
